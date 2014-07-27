@@ -13,5 +13,6 @@ hs_err_pid*
 
 #IDEA project file
 
-/proxy.*
+/springProxy.*
 .idea
+target/
